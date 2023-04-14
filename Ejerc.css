@@ -1,0 +1,26 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+/*etiqueta*/
+body{
+    color:aliceblue;
+    background-color:black;
+}
+/*header cabecera*/
+.cabecera{
+    background: rgb(253, 253, 253);
+    color: black;
+    margin: 10px;
+}
+ .navegador{
+    background:black;
+    border: 5px;
+ } 
+ 
+ .lista{
+list-style: none;
+     border: 0px solid black;
+     padding: 20px;
+     background: rgb(122, 122, 122);
+ }
+ }
